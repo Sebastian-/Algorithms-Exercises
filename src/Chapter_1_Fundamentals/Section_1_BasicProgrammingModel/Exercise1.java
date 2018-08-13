@@ -9,7 +9,7 @@ package Chapter_1_Fundamentals.Section_1_BasicProgrammingModel;
 
 import edu.princeton.cs.algs4.StdOut;
 
-public class Exercise_1 {
+public class Exercise1 {
     public static void main(String[] args) {
         StdOut.println((0 + 15) / 2);
         StdOut.println(2.0e-6 * 100000000.1);

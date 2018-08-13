@@ -10,7 +10,7 @@ package Chapter_1_Fundamentals.Section_1_BasicProgrammingModel;
 
 import edu.princeton.cs.algs4.StdOut;
 
-public class Exercise_2 {
+public class Exercise2 {
     public static void main(String[] args) {
         StdOut.println((1 + 2.236)/2);
         StdOut.println(1 + 2 + 3 + 4.0);
