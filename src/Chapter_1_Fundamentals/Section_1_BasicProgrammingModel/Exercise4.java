@@ -3,7 +3,7 @@ package Chapter_1_Fundamentals.Section_1_BasicProgrammingModel;
 /* Exercise 1.1.4
 
     a. if(a > b) then c = 0;
-        Results in an error: "Cannot resolve symbol then"
+        Results in an error: "variable declaration not allowed here"
         The keyword "then" is not recognized by Java like it is in other programming languages.
     b. if a > b { c = 0; }
         Results in an error: "( expected"
@@ -24,9 +24,9 @@ public class Exercise4 {
         int b = 2;
         int c = 3;
 
-        if(a > b) then c = 0;
-        if a > b { c = 0; }
+        // if(a > b) then c = 0;
+        // if a > b { c = 0; }
         if(a > b) c = 0;
-        if(a > b) c = 0 else b = 0;
+        // if(a > b) c = 0 else b = 0;
     }
 }
