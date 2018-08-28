@@ -1,6 +1,5 @@
 package Chapter_1_Fundamentals.Section_1_BasicProgrammingModel;
 
-import edu.princeton.cs.algs4.StdArrayIO;
 import edu.princeton.cs.algs4.StdIn;
 import edu.princeton.cs.algs4.StdOut;
 
